@@ -39,7 +39,7 @@ body {
 /* For devices larger than 550px */
 @media (min-width: 550px) {
 .container {
-	width: 80%;
+	width: 100%;
 }
 .column,  .columns {
 	margin-left: 4%;
@@ -63,7 +63,7 @@ body {
 	width: 39.3333333333%;
 }
 .six.columns {
-	width: 100%;
+	width: 48%;
 }
 .seven.columns {
 	width: 56.6666666667%;
